@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color:black;
+    height:100vh;
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	color:#17d4fe;
+}
+.digiclock{
+	font-size:68;
+    box-shadow: 10px 10px 20px 17d4fe;
+}
