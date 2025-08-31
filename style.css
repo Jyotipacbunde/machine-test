@@ -3,7 +3,7 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-body{
+#my body{
 	background-color:black;
     height:100vh;
 	display:flex;
@@ -15,3 +15,4 @@ body{
 	font-size:68;
     box-shadow: 10px 10px 20px 17d4fe;
 }
+
